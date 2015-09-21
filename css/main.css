@@ -260,7 +260,7 @@ SKILLS
   background: #c6c6c6;
 }
 .skills-legend div{
-  width: 25%;
+  width: 33.33333%;
   display: inline-block;
   font-size: 1.2em;
   color: #a9a9a9;
@@ -299,14 +299,6 @@ LANGUAGES
   margin: 10px 0;
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
-}
-#language-skills .skill .icons{
-  width: 111px;
-  height: 14px;
-  background: url(../img/star-grey.png) no-repeat;
-}
-#language-skills .skill .icons-red{
-  background: url(../img/star-red.png) no-repeat;
 }
 /*******************************************
 HOBBIES
