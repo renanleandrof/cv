@@ -1,2 +1,3 @@
 # cv
-My CV website!
+
+Checkout at: https://renanleandrof.github.io/cv/
