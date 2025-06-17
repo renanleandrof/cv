@@ -1,3 +1,3 @@
-# cv
+# My Resume
 
-Checkout at: https://renanleandrof.github.io/cv/
+Checkout my Resume at: https://renanleandrof.github.io/cv/
