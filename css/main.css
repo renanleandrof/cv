@@ -104,13 +104,13 @@ DEFAULT BOX
 /*******************************************
 EDUCATION
 *******************************************/
-#education{
+.education{
   margin-top: 20px;
   position: relative;
   padding: 1em 0;
   list-style: none;
 }
-#education:before {
+.education:before {
   width: 5px;
   height: 100%;
   position: absolute;
@@ -127,13 +127,13 @@ EDUCATION
   background: linear-gradient(to bottom,  #ffffff 0%,#4C89B4 7%,#4C89B4 89%,#ffffff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
 }
-#education li{
+.education li{
   width: 100%;
   z-index: 2;
   position: relative;
   float: left;
 }
-#education .year{
+.education .year{
   width: 10%;
   background: #fff;
   padding: 10px;
@@ -141,7 +141,7 @@ EDUCATION
   font-weight: 700;
   display: inline-block;
 }
-#education .description{
+.education .description{
   width: 80%;
   display: inline-block;
   background: #eee;
@@ -150,7 +150,7 @@ EDUCATION
   padding: 10px 10px 10px 10px;
   border-bottom: 1px solid #ddd;
 }
-#education .description:after {
+.education .description:after {
   content: '';
   position: absolute;
   top: 15px;
@@ -163,16 +163,16 @@ EDUCATION
   border-width: 8px;
   pointer-events: none;
 }
-#education .description h3{
+.education .description h3{
   font-size: 1.6em;
   margin: 0;
   padding: 0;
   font-weight: 700;
 }
-#education .description ul {
+.education .description ul {
   padding-inline-start: 5px;
 }
-#education .description li {
+.education .description li {
   list-style: none;
   font-size: 1.3em;
   margin-top: 5px;
